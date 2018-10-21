@@ -1,3 +1,5 @@
+## TRAINING BOT
+
 import sc2
 from sc2 import run_game, maps, Race, Difficulty, position, Result
 from sc2.player import Bot, Computer
