@@ -1,4 +1,4 @@
-## STARCRAFT II & DEEPMIND
+## STARCRAFT II A.I. Bot
 
 
 
