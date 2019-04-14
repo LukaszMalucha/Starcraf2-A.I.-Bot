@@ -3,9 +3,9 @@
 
 
 
-### A.I. Apollyon
+### A.I. Industria
 
-Apollyon is a mixture of role-based A.I. with an deep learning decision process enhancement. 
+Industria is a mixture of role-based A.I. with an deep learning decision process enhancement. 
 While most of it's actions are scripted, it decides about an army composition.
 
 
@@ -24,7 +24,7 @@ Build & upgrade Barracks, Factories & Starports
 
 
 #### 3. Build an Assault Force
-Let the Apollyon decide among Marauders, Cyclones, Thors & Medivacs
+Let the Industria decide among Marauders, Cyclones, Thors & Medivacs
 
 ![3](https://user-images.githubusercontent.com/26208598/47260879-a068dd80-d4bb-11e8-88a6-57346ada3412.PNG)
 
